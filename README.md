@@ -8,7 +8,7 @@ Problem 2: Find the estimates of multiple linear regression in which final as th
 as the independent variables.
 
 
-The formula for multiple linear regression is in Lab 2- pig.
+The formula for multiple linear regression is given below
 Problems 3 is based on the dataset nyc_taxi_data_2014.csv.gz.
 Problem 3: Find the 5 nearest neighbors (rows) to the first row based on tip_amount, trip_distance, and
 fare_amount.
