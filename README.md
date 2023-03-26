@@ -1,7 +1,7 @@
 # KNN-multiple-linear-regression-hive
 
 
-Problem 1: Find the 5 nearest neighbors (rows) to the row (seat is 54 and the midterm is 110) based on hw, quiz,
+Problem 1: Find the 5 nearest neighbours (rows) to the row (seat is 54 and the midterm is 110) based on hw, quiz,
 and final.
 
 Problem 2: Find the estimates of multiple linear regression in which final as the dependent variable and hw and quiz
@@ -10,7 +10,7 @@ as the independent variables.
 
 The formula for multiple linear regression is given below
 Problems 3 is based on the dataset nyc_taxi_data_2014.csv.gz.
-Problem 3: Find the 5 nearest neighbors (rows) to the first row based on tip_amount, trip_distance, and
+Problem 3: Find the 5 nearest neighbours (rows) to the first row based on tip_amount, trip_distance, and
 fare_amount.
 
 The K-Nearest Neighbors algorithm (KNN) is a non-parametric method that is used for classification and regression. In both cases, the input consists of the k closest training objects  in a data set. In KNN classification, an object is classified by a plurality vote of its neighbors, with the object being assigned to the class most common among its k nearest neighbors (k is a positive integer, typically small). In KNN regression, the output is the average of the values of the k nearest neighbors.
